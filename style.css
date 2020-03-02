@@ -1,13 +1,14 @@
 ﻿h1{
     text-align-last: center;
+    text-decoration: underline;
 
 }
 
 
 
 #divwrap {
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: Andale Mono, monospace;
+    font-size: large;
 
     width: 70%;
     height: 200px;
@@ -17,7 +18,7 @@
 #formcalc {
     
     
-    margin-left: 35%;
+    margin-left: 37%;
     height: 75px;
     
     
@@ -27,9 +28,10 @@
    
     
     width: 9.2%;
-    height: 200px;
+    height: 100px;
     float: left;
     margin-left: 35%;
+    
     
 }
 
@@ -43,7 +45,7 @@
 	display:inline-block;
 	cursor:pointer;
 	color:#00ccff;
-	font-family:Verdana;
+	font-family: Andale Mono, monospace;
 	font-size:28px;
 	font-weight:bold;
 	padding:10px 20px;
